@@ -1,0 +1,7 @@
+<Installar VirtualBox primero y ubuntu despues monta el ISO de VirtualBox.
+crear nuevo y nombrar
+configura nueva maquina virtual y añadir
+ el ISO
+en la siguiente pestaña seleciona los recursos que le vaz a dar a tu nueva maquina virtual
+descarga git en el souce control y seleciona la version compatible con tu dispositivo
+y estas listo
