@@ -5,3 +5,19 @@ configura nueva maquina virtual y añadir
 en la siguiente pestaña seleciona los recursos que le vaz a dar a tu nueva maquina virtual
 descarga git en el souce control y seleciona la version compatible con tu dispositivo
 y estas listo
+inicia tu nueva maquina virtual
+abre el terminal de la maquina virtual
+usa el commando "mkdir -p ~/laboratorio-cli/{docs,src,logs}
+usa el commando ls
+asegurate de que el laboratorio-cli esta incluido
+usa el commando cd ~/laboratorio-cli
+usa el commando touch docs/{guia,notas}.md src/{main,test}.py logs/app.log README.txt
+usa commando ls y deberias ver el README.txt
+usa commando cd docs y luego ls
+usa commando cd ..
+usa commando cd src y luego ls
+usa commando cd ..
+usa commando cd logs y luego ls
+usa commando printf 'error\nok\nerror\n' > logs/app.log
+usa commando nano logs/app.log
+regresa a terminal normal
